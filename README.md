@@ -1,5 +1,5 @@
 # Price-of-Oil
-Analysis that looks into oil price and relationships with active drilling rigs while utilizing interactive plots and features. 
+Analysis that looks into oil price and relationships with active drilling rigs utilizing interactive plots and features. 
 
 There are plenty of data on oil productions and price of oil in attempt to explain the oil price fluctuations. 
 Instead of trying to predict oil prices, I'm going to look into how oil prices and number of active drilling rigs affect one another, if at all. 
