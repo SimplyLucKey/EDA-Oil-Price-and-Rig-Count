@@ -10,7 +10,7 @@ Instead of trying to predict oil prices, I'm going to look into how oil prices a
 ![onshore rig](https://images.rigzone.com/images/news/articles/158402_582x327.png)
 
 Crude oil has to come from somewhere. Drilling rigs are an extremely good indication for how well an operator (oil company) is performing financially. 
-The more rigs the operators have active, the more they plan to drill and produce, and vice versa. 
+The more active rigs the operators have, the more they plan to drill and produce, and vice versa. 
 While there is no public sources on every major operator and their active rig count history, there is the active rig count dating back to 1975.
 
 
