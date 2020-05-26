@@ -1,4 +1,4 @@
-# Case Study: Oil Price and Rig count
+# Case Study: Oil Price and Rig Count
 
 ![stock img](https://www.usnews.com/dims4/USNEWS/4552c79/2147483647/thumbnail/640x420/quality/85/?url=http%3A%2F%2Fmedia.beam.usnews.com%2F1c%2F7f%2F495e5f284c5b935bfc7e55deb2f3%2Finvestinggrapharrowsup.jpg)
 
