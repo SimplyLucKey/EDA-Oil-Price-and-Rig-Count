@@ -1,6 +1,6 @@
 # Case Study: Oil Price and Rig Count
 
-![stock img](https://www.usnews.com/dims4/USNEWS/4552c79/2147483647/thumbnail/640x420/quality/85/?url=http%3A%2F%2Fmedia.beam.usnews.com%2F1c%2F7f%2F495e5f284c5b935bfc7e55deb2f3%2Finvestinggrapharrowsup.jpg)
+![stock img](https://www.fairobserver.com/wp-content/uploads/2020/03/markets-2.jpg)
 
 
 There are tons of knowledge in the oil and gas industry that are unfamiliar to the general public. It is a niche industry. I have worked in this industry for 2+ years now, and I think case studies and analyses with information from the industry would be well suited in explaning certain behaviors and trends, as well as provide better information on how the industry operates. 
