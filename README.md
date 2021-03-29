@@ -1,4 +1,18 @@
 # Case Study: Oil Price and Rig Count
+## Update:
+Below are two gifs that demonstrate the interactivity the pipeline contains but cannot display through github or nbviewer.
+
+
+The interactive slider to quickly check cross-correlation values
+![interactive slider](https://thumbs.gfycat.com/ObviousKeyBuffalo-size_restricted.gif)
+
+
+The interactive slider to quickly check cross-correlation values
+![interactive plot](https://thumbs.gfycat.com/EuphoricKindheartedHorsemouse-size_restricted.gif)
+
+
+---
+
 
 <img src="https://www.fairobserver.com/wp-content/uploads/2020/03/markets-2.jpg" width="900" height="300">
 
