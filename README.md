@@ -16,4 +16,4 @@ Crude oil has to come from somewhere. Drilling rigs are an extremely good indica
 The more active rigs the operators have, the more they plan to drill and produce, and vice versa. 
 While there is no public sources on every major operator and their active rig count history, there is the active rig count dating back to 1975.
 
-![](https://gfycat.com/euphorickindheartedhorsemouse)
+![gif1](https://gfycat.com/euphorickindheartedhorsemouse)
