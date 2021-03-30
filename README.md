@@ -1,6 +1,7 @@
 # Case Study: Oil Price and Rig Count
 ## Update:
 Below are two gifs that demonstrate the interactivity the pipeline contains but cannot display through github or nbviewer.
+I have inserted these gifs into the notebook itself for demonstration. 
 
 
 The interactive slider to quickly check cross-correlation values
